@@ -43,7 +43,7 @@
     "jquery": "^3.5.1",
     "jquery-migrate": "^1.2.1",
     "jquery-star-rating-plugin": "^4.11.0",
-    "jquery-ui": "^1.12.1",
+    "jquery-ui": "^1.13.0",
     "jquery-ui-dist": "^1.12.1",
     "jquery-ui-themes": "^1.12.0",
     "jquery-validation": "^1.19.2",
